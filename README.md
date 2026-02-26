@@ -57,4 +57,7 @@ You can monitor the activity log located in the logs/ directory:
 
 tail -f logs/trading.log
 
+# Note:
+The bot is currently configured with placeholder keys. To run the bot, please update the .env file with your valid Binance Futures Testnet API credentials.
+
 Developed by-datazahard
